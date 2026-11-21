@@ -36,8 +36,8 @@
   flower.appendChild(core);
 
   const rings = [
-    { cls: 'r0', n: 5, w: 54, h: 82,  r: 14, z: 8,  open: -58, shut: -82, off: 0 },
-    { cls: 'r1', n: 6, w: 74, h: 112, r: 17, z: 2,  open: -42, shut: -74, off: 30 },
+    { cls: 'r0', n: 5, w: 54, h: 82, r: 14, z: 8, open: -58, shut: -82, off: 0 },
+    { cls: 'r1', n: 6, w: 74, h: 112, r: 17, z: 2, open: -42, shut: -74, off: 30 },
     { cls: 'r2', n: 7, w: 94, h: 142, r: 20, z: -6, open: -22, shut: -62, off: 14 }
   ];
 
